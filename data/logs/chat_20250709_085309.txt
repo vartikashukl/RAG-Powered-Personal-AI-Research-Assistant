@@ -1,0 +1,4 @@
+Timestamp: 20250709_085309
+Query: Who are AI engineer
+Answer: Error processing query: 404 models/chat-bison is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Sources: []

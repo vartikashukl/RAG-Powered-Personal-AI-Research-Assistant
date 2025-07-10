@@ -1,0 +1,16 @@
+Timestamp: 20250710_044740
+Query: AI Engineer
+Answer: An AI Engineer, also known as an ML Engineer, is a technical professional who focuses on the design, development, and deployment of AI systems. This role combines aspects of a Data Scientist and a Software Engineer.
+
+Key aspects and responsibilities of an AI Engineer include:
+
+*   **Definition:** A technical discipline that applies engineering principles and methodologies to create scalable, efficient, and reliable AI-based solutions.
+*   **Skillset:** Merges data engineering and software engineering to build real-world AI applications across various domains like healthcare, finance, and autonomous systems.
+*   **Key Components/Practices:**
+    *   **Data Engineering and Infrastructure:** Gathering, cleaning, preprocessing, and storing large datasets; managing ETL processes; ensuring data security and scalability.
+    *   **Natural Language Processing (NLP):** Working with models (e.g., BERT, GPT) for tasks like sentiment analysis, machine translation, and building applications like virtual assistants and chatbots.
+    *   **Reasoning and Decision-Making Systems:** (Mentioned as a component, though details are cut off in the provided text).
+*   **Career Path (for beginners):**
+    *   A roadmap suggests a total duration of 8 months (4 hours of study every day, 6 days a week).
+    *   It's recommended to take a suitability test before starting the learning journey to ensure the career matches natural abilities and interests.
+Sources: ['data/AI Engineer.pdf', 'Wikipedia: AI Engineers']
